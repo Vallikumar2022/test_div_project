@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.titles {
+  text-align: center;
+  width: 30%;
+}
+.title {
+  border: 1px solid black;
+  background-color: #f6f6f6;
+  padding: 10px;
+  width: 250px;
+  margin: 100px auto 100px auto;
+}
+.author {
+  color: skyblue;
+}
+.button {
+  background-color: #4579bb;
+  color: white;
+}
